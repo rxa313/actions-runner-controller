@@ -37,7 +37,7 @@ import (
 )
 
 const (
-	defaultRunnerImage = "summerwind/actions-runner:latest"
+	defaultRunnerImage = "docker.cpartdc01.sherwin.com/summerwind/actions-runner:latest"
 	defaultDockerImage = "docker:dind"
 
 	logLevelDebug = "debug"
